@@ -15,8 +15,8 @@ Saya seorang **NPC** yang sedang mengejar ilmu di bidang **Ilmu Komputer**. Saat
 ### 🔧 Tools & Teknologi yang Saya Gunakan:
 - **Editor**: VS Code, Sublime Text
 - **Version Control**: Git, GitHub
-- **Frameworks**: React.js, Express.js, Django
-- **Databases**: PostgreSQL, MySQL
+- **Frameworks**: React.js, Express.js
+- **Databases**: PostgreSQL
 
 Saya juga bersemangat untuk mengembangkan proyek-proyek open-source dan berkolaborasi dengan pengembang lain!
 
