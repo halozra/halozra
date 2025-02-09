@@ -1,39 +1,39 @@
 <!-- @format -->
 
-# Halo, Saya Zra 👋
+# Hello, I'm Zra 👋
 
-Selamat datang di profil GitHub saya! Saya Zra, seorang pengembang yang sedang terus berkembang di dunia **Ilmu Komputer**.
+Welcome to my GitHub profile! I'm Zra, a developer who is continuously growing in the field of **Computer Science**.
 
-## Tentang Saya
+## About Me
 
-Saya seorang **NPC** yang sedang mengejar ilmu di bidang **Ilmu Komputer**. Saat ini saya fokus belajar dan mengembangkan keterampilan teknis saya di berbagai bahasa pemrograman dan teknologi.
+I am an **NPC** pursuing knowledge in the field of **Computer Science**. Currently, I'm focused on learning and developing my technical skills in various programming languages and technologies.
 
-### 🌱 Saya menguasai beberapa bahasa pemrograman seperti:
+### 🌱 I am proficient in several programming languages, such as:
 - ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
-### 🔧 Tools & Teknologi yang Saya Gunakan:
+### 🔧 Tools & Technologies I Use:
 - **Editor**: VS Code
 - **Version Control**: Git, GitHub
 - **Frameworks**: React.js, Express.js
 - **Databases**: PostgreSQL
 - **CSS Framework**: [Tailwind CSS](https://tailwindcss.com/)
 
-Saya juga bersemangat untuk mengembangkan proyek-proyek open-source dan berkolaborasi dengan pengembang lain!
+I am also excited to develop open-source projects and collaborate with other developers!
 
-## Proyek Saya
+## My Projects
 
-Beberapa proyek yang saya kerjakan:
-- **[Weather App](https://github.com/halozra/Learning-React-WeatherApp)**: Aplikasi cuaca menggunakan **Node.js**, **Express**, dan **EJS**.
-- **[To-Do List App](https://github.com/halozra/Learning-React-todolist)**: Manajemen tugas menggunakan **React.js** dan **Node.js**.
-- **[Notes App](https://github.com/halozra/Learning-React-My-First-App)**: Website pribadi yang saya bangun untuk menampilkan karya dan pengalaman saya.
+Some of the projects I have worked on:
+- **[Weather App](https://github.com/halozra/Learning-React-WeatherApp)**: A weather app built with **Node.js**, **Express**, and **EJS**.
+- **[To-Do List App](https://github.com/halozra/Learning-React-todolist)**: A task management app built with **React.js** and **Node.js**.
+- **[Notes App](https://github.com/halozra/Learning-React-My-First-App)**: A personal website I built to showcase my work and experiences.
 
-## Kontak
+## Contact
 
-Saya sangat terbuka untuk diskusi, proyek kolaborasi, atau pertanyaan. Anda bisa menghubungi saya melalui:
+I am open to discussions, collaborations, or any inquiries. Feel free to reach out to me via:
 
 - 📧 **Email**: [Haloszra@gmail.com](mailto:Haloszra@gmail.com)
 - 🌐 **LinkedIn**: [LinkedIn - Zra](https://id.linkedin.com/in/revolusi-hazara-djibril-8444032b4)
 - 🐦 **Twitter**: [@halozra](https://twitter.com/halozra)
 
-Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk menghubungi atau berkolaborasi! 😊
+Thank you for visiting my GitHub profile! Don't hesitate to reach out or collaborate! 😊
