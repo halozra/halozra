@@ -19,8 +19,6 @@ Saya seorang **NPC** yang sedang mengejar ilmu di bidang **Ilmu Komputer**. Saat
 - **Databases**: PostgreSQL
 - **CSS Framework**: [Tailwind CSS](https://tailwindcss.com/)
 
-  Tailwind CSS adalah framework **utility-first** yang membantu dalam pembuatan desain yang responsif dan kustom dengan cepat tanpa menulis banyak CSS kustom. Saya menggunakan Tailwind CSS untuk membuat antarmuka yang cepat dan efisien dalam pengembangan aplikasi.
-
 Saya juga bersemangat untuk mengembangkan proyek-proyek open-source dan berkolaborasi dengan pengembang lain!
 
 ## Proyek Saya
