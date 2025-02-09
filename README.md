@@ -13,7 +13,7 @@ Saya seorang **NPC** yang sedang mengejar ilmu di bidang **Ilmu Komputer**. Saat
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
 ### 🔧 Tools & Teknologi yang Saya Gunakan:
-- **Editor**: VS Code, Sublime Text
+- **Editor**: VS Code
 - **Version Control**: Git, GitHub
 - **Frameworks**: React.js, Express.js
 - **Databases**: PostgreSQL
