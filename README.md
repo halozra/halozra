@@ -9,8 +9,6 @@ Selamat datang di profil GitHub saya! Saya Zra, seorang pengembang yang sedang t
 Saya seorang **NPC** yang sedang mengejar ilmu di bidang **Ilmu Komputer**. Saat ini saya fokus belajar dan mengembangkan keterampilan teknis saya di berbagai bahasa pemrograman dan teknologi.
 
 ### 🌱 Saya menguasai beberapa bahasa pemrograman seperti:
-- ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
