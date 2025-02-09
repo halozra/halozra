@@ -32,7 +32,7 @@ Beberapa proyek yang saya kerjakan:
 Saya sangat terbuka untuk diskusi, proyek kolaborasi, atau pertanyaan. Anda bisa menghubungi saya melalui:
 
 - 📧 **Email**: [Haloszra@gmail.com](mailto:Haloszra@gmail.com)
-- 🌐 **LinkedIn**: [LinkedIn - Zra](https://www.linkedin.com/in/halozra/](https://www.linkedin.com/in/revolusi-hazara-djibril-8444032b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🌐 **LinkedIn**: [LinkedIn - Zra](https://id.linkedin.com/in/revolusi-hazara-djibril-8444032b4)
 - 🐦 **Twitter**: [@halozra](https://twitter.com/halozra)
 
 Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk menghubungi atau berkolaborasi! 😊
