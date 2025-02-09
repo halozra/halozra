@@ -23,16 +23,16 @@ Saya juga bersemangat untuk mengembangkan proyek-proyek open-source dan berkolab
 ## Proyek Saya
 
 Beberapa proyek yang saya kerjakan:
-- **[Weather App](https://github.com/halozra/WeatherApp)**: Aplikasi cuaca menggunakan **Node.js**, **Express**, dan **EJS**.
-- **[To-Do List App](https://github.com/halozra/ToDoList)**: Manajemen tugas menggunakan **React.js** dan **Node.js**.
-- **[Portfolio Website](https://github.com/halozra/Portfolio)**: Website pribadi yang saya bangun untuk menampilkan karya dan pengalaman saya.
+- **[Weather App](https://github.com/halozra/Learning-React-WeatherApp)**: Aplikasi cuaca menggunakan **Node.js**, **Express**, dan **EJS**.
+- **[To-Do List App](https://github.com/halozra/Learning-React-todolist)**: Manajemen tugas menggunakan **React.js** dan **Node.js**.
+- **[Notes App](https://github.com/halozra/Learning-React-My-First-App)**: Website pribadi yang saya bangun untuk menampilkan karya dan pengalaman saya.
 
 ## Kontak
 
 Saya sangat terbuka untuk diskusi, proyek kolaborasi, atau pertanyaan. Anda bisa menghubungi saya melalui:
 
 - 📧 **Email**: [Haloszra@gmail.com](mailto:Haloszra@gmail.com)
-- 🌐 **LinkedIn**: [LinkedIn - Zra](https://www.linkedin.com/in/halozra/)
+- 🌐 **LinkedIn**: [LinkedIn - Zra]([https://www.linkedin.com/in/halozra/](https://www.linkedin.com/in/revolusi-hazara-djibril-8444032b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - 🐦 **Twitter**: [@halozra](https://twitter.com/halozra)
 
 Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk menghubungi atau berkolaborasi! 😊
