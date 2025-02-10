@@ -15,9 +15,11 @@ I am an **NPC** pursuing knowledge in the field of **Computer Science**. Current
 ### 🔧 Tools & Technologies I Use:
 - **Editor**: VS Code
 - **Version Control**: Git, GitHub
-- **Frameworks**: React.js, Express.js
+- **Frameworks**: jQuery, React.js, Express.js
+- **Templating Engine**: **EJS**
 - **Databases**: PostgreSQL
 - **CSS Framework**: [Tailwind CSS](https://tailwindcss.com/)
+
 
 I am also excited to develop open-source projects and collaborate with other developers!
 
