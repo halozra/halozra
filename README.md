@@ -26,9 +26,9 @@ I am also excited to develop open-source projects and collaborate with other dev
 ## My Projects
 
 Some of the projects I have worked on:
-- **[Weather App](https://github.com/halozra/Learning-React-WeatherApp)**: A weather app built with **Node.js**, **Express**, and **EJS**.
-- **[To-Do List App](https://github.com/halozra/Learning-React-todolist)**: A task management app built with **React.js** and **Node.js**.
-- **[Notes App](https://github.com/halozra/Learning-React-My-First-App)**: A personal website I built to showcase my work and experiences.
+- **[E-commerce App](https://github.com/halozra/Store-App-Frontend)**
+- **[To-Do List App](https://github.com/halozra/Learning-React-todolist)**
+- **[Notes App](https://github.com/halozra/Learning-React-My-First-App)**
 
 ## Contact
 
