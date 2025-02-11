@@ -13,12 +13,13 @@ I am an **NPC** pursuing knowledge in the field of **Computer Science**. Current
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
 ### 🔧 Tools & Technologies I Use:
+- **Languages**: JavaScript, TypeScript, Python
 - **Editor**: VS Code
 - **Version Control**: Git, GitHub
 - **Templating Engine**: **EJS**
 - **CSS Framework**: [Tailwind CSS](https://tailwindcss.com/)
 - **Frameworks**: jQuery, React.js, NextJS, Express.js
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL, MongoDB
 
 
 I am also excited to develop open-source projects and collaborate with other developers!
