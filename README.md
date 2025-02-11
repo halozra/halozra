@@ -17,7 +17,7 @@ I am an **NPC** pursuing knowledge in the field of **Computer Science**. Current
 - **Version Control**: Git, GitHub
 - **Templating Engine**: **EJS**
 - **CSS Framework**: [Tailwind CSS](https://tailwindcss.com/)
-- **Frameworks**: jQuery, React.js, Express.js
+- **Frameworks**: jQuery, React.js, NextJS, Express.js
 - **Databases**: PostgreSQL
 
 
