@@ -36,7 +36,7 @@ Some of the projects I have worked on:
 I am open to discussions, collaborations, or any inquiries. Feel free to reach out to me via:
 
 - 📧 **Email**: [Haloszra@gmail.com](mailto:Haloszra@gmail.com)
-- 🌐 **LinkedIn**: [LinkedIn - Zra](https://id.linkedin.com/in/revolusi-hazara-djibril-8444032b4)
+- 🌐 **LinkedIn**: [LinkedIn - Zra](https://id.linkedin.com/in/halozra)
 - 🐦 **Twitter**: [@halozra](https://twitter.com/halozra)
 
 Thank you for visiting my GitHub profile! Don't hesitate to reach out or collaborate! 😊
