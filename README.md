@@ -14,7 +14,6 @@ I am an **NPC** pursuing knowledge in the field of **Computer Science**. Current
 
 ### 🔧 Tools & Technologies I Use:
 - **Languages**: JavaScript, TypeScript, Python
-- **Editor**: VS Code
 - **Version Control**: Git, GitHub
 - **Templating Engine**: **EJS**
 - **CSS Framework**: [Tailwind CSS](https://tailwindcss.com/)
